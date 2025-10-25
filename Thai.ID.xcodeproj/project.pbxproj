@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		8DE6402E2EACFA8C001B91B3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8DE6402D2EACFA8C001B91B3 /* README.md */; };
+		8DE640912EAD0509001B91B3 /* notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8DE640902EAD0509001B91B3 /* notes.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8DE640152EACF9C1001B91B3 /* Thai.ID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Thai.ID.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DE6402D2EACFA8C001B91B3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8DE640902EAD0509001B91B3 /* notes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = notes.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -50,6 +52,7 @@
 		8DE6400C2EACF9C1001B91B3 = {
 			isa = PBXGroup;
 			children = (
+				8DE640902EAD0509001B91B3 /* notes.txt */,
 				8DE6402D2EACFA8C001B91B3 /* README.md */,
 				8DE640172EACF9C1001B91B3 /* Thai.ID */,
 				8DE640162EACF9C1001B91B3 /* Products */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DE640912EAD0509001B91B3 /* notes.txt in Resources */,
 				8DE6402E2EACFA8C001B91B3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
